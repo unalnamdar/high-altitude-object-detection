@@ -1,7 +1,7 @@
 # High-Altitude Small Object Detection Project
 
 ## Objective
-Develop a deep learning pipeline to detect small objects (e.g., vehicles, people, animals) from high-altitude imagery captured by drones.
+Develop a deep learning pipeline to detect small objects (e.g., vehicles, people, tools, etc.) from high-altitude imagery captured by drones.
 
 ## Tools and Technologies
 - Object Detection Model: YOLOv8 (Ultralytics)
